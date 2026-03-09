@@ -1,22 +1,22 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224220092
+# Name:SESHAN J
+# Date:08.03.2026
 
 
 # AIM:
 To develop the Online Examination System using Star UML.
 
 # Problem Statement:
-1.Online Examination System is essential to replace traditional paper-based exams, which are time-consuming, require physical presence, and involve manual evaluation and result processing.
+1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
 
-2.Conducting exams manually poses challenges in terms of logistics, security, invigilation, and scalability, especially during emergencies or in geographically dispersed institutions.
+2. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator.
 
-3.Many institutions lack a centralized and automated system for exam creation, question management, candidate registration, and result publication.
+3. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view.
 
-4.Students need a platform where they can take exams online securely, receive instant feedback, and avoid travel or physical attendance at examination centers.
+4. The applications are then processed ased on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law.
 
-5.Examiners and administrators require tools to create question banks, set exam parameters (duration, marking, randomization), monitor exam activity, and automate result evaluation.
+5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 
 UML DIAGRAMS
 
@@ -36,6 +36,7 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
+![image](https://github.com/user-attachments/assets/ada90e7f-52c9-4cb9-8fba-92ccb4c87509)
 
 
 
@@ -56,6 +57,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+![image](https://github.com/user-attachments/assets/c5adee8d-570a-4dda-9986-4bdd22fdf24e)
 
 
 
@@ -65,6 +67,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+![image](https://github.com/user-attachments/assets/ec57f2d7-7707-4eb8-b21b-8b9fa753060b)
 
 
 
@@ -76,6 +79,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+![Screenshot 2025-05-19 172014](https://github.com/user-attachments/assets/74ca3e2c-4062-4278-ac3b-f3e224490e6f)
 
 
 
@@ -94,6 +98,7 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+![image](https://github.com/user-attachments/assets/fc8d97c9-c407-434c-804e-a8766ef09ebe)
 
 
 
@@ -118,6 +123,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+![image](https://github.com/user-attachments/assets/77c8564d-6b25-46b7-b510-01110100f25f)
 
 
 
